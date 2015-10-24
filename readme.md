@@ -7,10 +7,17 @@ Jeff Seymour
 Epicodus - Intro to Programming
 
 ###Description
-JavaScript BDD Code Review.
+JavaScript BDD Code Review. "99 bottles of beer on the wall" song using javascript and behavior-driven development techniques for testing.
+
+###Technologies Used
+-javascript
+-mocha.js
+-chai.js
 
 ###Setup Instructions
-........
+Open spec/spec-runner.html in the browser to view test.
+And/or
+View raw code.
 
 ###Link to GitHub Pages Site
 N/A
